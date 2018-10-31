@@ -1,7 +1,7 @@
-# Capstone Project: Wheat Market Analysis
+# Wheat Market Analysis
 ## Technical Report
 
-### Matthew Garton - General Assembly DSI-Boston
+### Matthew Garton - October 2018
 
 # Problem Statement
 
