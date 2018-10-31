@@ -9,7 +9,7 @@
 
 ### Technical Report:
 
-Refer to [technical report](https://git.generalassemb.ly/MattGarton/DSI-Assignments/blob/master/Capstone/Technical%20Report.md) for full discussion of research and modeling.
+Refer to [technical report](https://github.com/mattg12/Wheat-Futures-Market-Analysis/blob/master/Technical%20Report.md) for full discussion of research and modeling.
 
 ### Technologies Used:
 
